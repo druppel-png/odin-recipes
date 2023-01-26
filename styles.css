@@ -1,0 +1,44 @@
+*{
+    background-color: paleturquoise;
+    font-family: serif;
+    text-align: center;
+}
+
+h1{
+    color:grey;
+    text-shadow: 1px 1px 2px black;
+    font-size: 60px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    font-size: 30px;
+}
+
+ol{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+ol li{
+    padding: 2%;
+}
+
+.one{
+    font-size: 20px;
+}
+
+img{
+    border: 5px solid grey;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
